@@ -16,6 +16,16 @@ This is only for my personal reference but in case you find any discrepancy or h
 - Lisp is for building organisms — imposing, breathtaking, dynamic structures built by squads fitting fluctuating myriads of simpler organisms into place.
 - It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures. As a result the pyramid must stand unchanged for a millennium; the organism must evolve or perish.
 
+**Preface to 1st ed.**
+- Computer programs are good, they say, for particular purposes, but they aren’t flexible. Neither is a violin, or a typewriter, until you learn how to use it.
+- “Computer science” is not a science and that its significance has little to do with computers.
+- The computer revolution is a revolution in the way we think and in the way we express what we think.
+- Procedural epistemology — the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects.
+- Mathematics provides a framework for dealing precisely with notions of “what is.” Computation provides a framework for dealing precisely with notions of “how to.”
+
+**Preface to 2nd ed."
+- In literal realization of an ancient Talmudic pun, our students have become our builders.
+
 
 
 ```markdown
