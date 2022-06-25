@@ -23,7 +23,7 @@ This is only for my personal reference but in case you find any discrepancy or h
 - Procedural epistemology — the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects.
 - Mathematics provides a framework for dealing precisely with notions of “what is.” Computation provides a framework for dealing precisely with notions of “how to.”
 
-**Preface to 2nd ed."
+**Preface to 2nd ed.**
 - In literal realization of an ancient Talmudic pun, our students have become our builders.
 
 
