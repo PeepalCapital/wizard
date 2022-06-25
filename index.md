@@ -26,6 +26,10 @@ This is only for my personal reference but in case you find any discrepancy or h
 **Preface to 2nd ed.**
 - In literal realization of an ancient Talmudic pun, our students have become our builders.
 
+**Acknowledgments**
+- A student’s ability to write and modify programs provides a powerful medium in which exploring becomes a natural activity.
+
+
 
 
 ```markdown
