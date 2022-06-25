@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Quotes from The Wizard Book - Structure and Interpretation of Computer Programs
 
-You can use the [editor on GitHub](https://github.com/PeepalCapital/sicp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The book is [freely available](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Every computer program is a model, hatched in the mind, of a real or mental process. These processes, arising from human experience and thought, are huge in number, intricate in detail, and at any time only partially understood._
 
 ### Markdown
 
