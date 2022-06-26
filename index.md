@@ -29,7 +29,18 @@ This is only for my personal reference but in case you find any discrepancy or h
 **Acknowledgments**
 - A student’s ability to write and modify programs provides a powerful medium in which exploring becomes a natural activity.
 
-
+**Building Abstractions with Procedures**
+- The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
+- Computational processes are abstract beings that inhabit computers.
+- Processes manipulate other abstract things called data.
+- The evolution of a process is directed by a pattern of rules called a program.
+- People create programs to direct processes.
+- We conjure the spirits of the computer with our spells.
+- A computational process is indeed much like a sorcerer’s idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions.
+- The programs we use to conjure processes are like a sorcerer’s spells.
+- Like the sorcerer’s apprentice, novice programmers must learn to understand and to anticipate the consequences of their conjuring.
+- Visualize the behavior of the systems in advance.
+- Well designed computational systems, like well designed automobiles or nuclear reactors, are designed in a modular manner.
 
 
 ```markdown
