@@ -41,6 +41,7 @@ This is only for my personal reference but in case you find any discrepancy or h
 - Like the sorcerer’s apprentice, novice programmers must learn to understand and to anticipate the consequences of their conjuring.
 - Visualize the behavior of the systems in advance.
 - Well designed computational systems, like well designed automobiles or nuclear reactors, are designed in a modular manner.
+- Language provides for combining simple ideas to form more complex ideas.
 
 
 ```markdown
