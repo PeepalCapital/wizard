@@ -42,6 +42,7 @@ This is only for my personal reference but in case you find any discrepancy or h
 - Visualize the behavior of the systems in advance.
 - Well designed computational systems, like well designed automobiles or nuclear reactors, are designed in a modular manner.
 - Language provides for combining simple ideas to form more complex ideas.
+- Every powerful language has three mechanisms for combining simple ideas to form more complex ideas: 1) primitive expressions, which represent the simplest entities the language is concerned with, 2) means of combination, by which compound elements are built from simpler ones, and 3) means of abstraction, by which compound elements can be named and manipulated as units.
 
 
 ```markdown
